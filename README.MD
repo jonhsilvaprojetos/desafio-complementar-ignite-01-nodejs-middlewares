@@ -4,7 +4,7 @@
 
 ### Requisitos
 
-[x] - checksExistsUserAccount: Validar se existe usuário cadastrado ou não
+- [x] - checksExistsUserAccount: Validar se existe usuário cadastrado ou não
 [x] - checksCreateTodosUserAvailability: Receber objeto do usuário via request
 [x] - checksTodoExists: Validar usuário existente
 [x] - checksTodoExists: Validar se o o ID é um UUID
